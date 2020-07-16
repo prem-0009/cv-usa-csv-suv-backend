@@ -1,6 +1,8 @@
+const getTotalCases = function(rowArr){
+  return rowArr[4];
+}
 
-
-
+//did above code
 
 
 
